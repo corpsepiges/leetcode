@@ -1,6 +1,0 @@
-﻿#coding=utf-8
-__author__ = 'xuxuan'
-
-#测试中文
-
-撒大大撒的撒的空间撒的卢萨卡较大；lkjdsdsa的撒第三方第三方的撒范德萨
