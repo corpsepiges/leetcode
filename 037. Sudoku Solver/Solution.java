@@ -1,0 +1,67 @@
+public class Solution {
+    public void solveSudoku(char[][] board) {
+    	//true表示需要填的
+        boolean[][] flag=new boolean[9][9];
+        for (int i = 0; i < 9; i++) {
+			for (int j = 0; j < 9; j++) {
+				flag[i][j]=board[i][j]==&#39;.&#39;;
+			}
+		}
+        for (int i = 0; i < 81;) {
+			int x=i/9;
+			int y=i%9;
+			if (flag[x][y]) {
+				if (board[x][y]==&#39;.&#39;) {
+					board[x][y]=&#39;1&#39;;
+					if (f(board,x,y,board[x][y])) {
+						i++;
+					}
+				}else if(board[x][y]<&#39;9&#39;){
+					board[x][y]++;
+					if (f(board,x,y,board[x][y])) {
+						i++;
+					}
+				}else {
+					//回退
+					while ((!flag[x][y])||board[x][y]==&#39;9&#39;) {
+						if (flag[x][y]) {
+							board[x][y]=&#39;.&#39;;
+						}
+						i--;
+						if (i<0) {
+							return ;
+						}
+						x=i/9;
+						y=i%9;
+					}
+				}
+			}else {
+				i++;
+			}
+		}
+    }
+    public boolean f(char[][] board,int x,int y,char val){
+    	int a=x/3;
+    	int b=y/3;
+    	for (int i = 0; i < 9; i++) {
+    		if (i!=y) {
+				if (board[x][i]==val) {
+					return false;
+				}
+			}
+    		if (x!=i) {
+				if (board[i][y]==val) {
+					return false;
+				}
+			}
+    		int ax=i/3;
+    		int by=i%3;
+    		if (x!=a*3+ax||y!=b*3+by) {
+				if (board[a*3+ax][b*3+by]==val) {
+					return false;
+				}
+			}
+		}
+    	return true;
+    }
+}
