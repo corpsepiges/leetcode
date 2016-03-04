@@ -1,5 +1,5 @@
-﻿| ID|Title|Java|Python|JavaScript|C++|
-| -|
+| ID|Title|Java|Python|JavaScript|C++|
+| : | : | :--: |:--: |:--: |:--: |
 |001|Two Sum|[answer](https://github.com/corpsepiges/leetcode/blob/master/001. Two Sum/Solution.py)|[answer](https://github.com/corpsepiges/leetcode/blob/master/001. Two Sum/Solution.py)|no|no|
 |002|Add Two Numbers|[answer](https://github.com/corpsepiges/leetcode/blob/master/002. Add Two Numbers/Solution.py)|[answer](https://github.com/corpsepiges/leetcode/blob/master/002. Add Two Numbers/Solution.py)|no|no|
 |003|Longest Substring Without Repeating Characters|[answer](https://github.com/corpsepiges/leetcode/blob/master/003. Longest Substring Without Repeating Characters/Solution.py)|[answer](https://github.com/corpsepiges/leetcode/blob/master/003. Longest Substring Without Repeating Characters/Solution.py)|no|no|
@@ -318,3 +318,4 @@
 |333|Largest BST Subtree|no|no|no|no|
 |334|Increasing Triplet Subsequence|no|[answer](https://github.com/corpsepiges/leetcode/blob/master/334. Increasing Triplet Subsequence/Solution.py)|no|no|
 |335|Self Crossing|no|no|no|no|
+
