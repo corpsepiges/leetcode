@@ -29,7 +29,7 @@ class questionInfo(object):
 
 
 #参数1：本地leetcode项目地址
-localPath='D:\workSpace\pythonWorkSpace\leetcode'
+localPath='E:\github\leetcode'
 #参数2：自己github项目网址
 githubUrl='https://github.com/corpsepiges/leetcode'
 githubUrl+='/blob/master/Algorithms/'
@@ -50,16 +50,13 @@ page=requests.get('https://leetcode.com/problemset/algorithms/')
 page=page.content
 soup = BeautifulSoup.BeautifulSoup(page)
 q=soup.findAll('tr')
-print len(q)
 re_rules = r'"None"> </span>\n</td>\n<td>(.+?)</td>\n<td>\n<a href="(.+?)">(.+?)</a>(.+?)</td>(.+?)%">(.+?)</td>\n</tr>'
 print '建立规则'
 p = re.compile(re_rules,re.DOTALL)
 print '生成p'
 questions = p.findall(str(q))
-print len(questions)
 tableId=[]
 tableInfo={}
-
 for i in range(len(questions)-1,-1,-1):
     question=questions[i]
     [id,url,name,buy,acceptance,difficulty]=question
@@ -70,6 +67,8 @@ for i in range(len(questions)-1,-1,-1):
     url=leetcodeUrl+url
     buy=len(buy)<5
     tableId.append(id)
+    if name.__contains__('&#39;'):
+        name=name.replace('&#39;','\'')
     q=questionInfo(id,name,url,buy,difficulty)
     tableInfo[id]=q
     questionFolderName=folderName+'\\'+id+'. '+name
@@ -78,7 +77,6 @@ for i in range(len(questions)-1,-1,-1):
         os.mkdir(questionFolderName)
 #复制python答案
 for root, dirs, files in os.walk(pythonPath):
-    print type(files)
     for file in files:
         fileName=file[:-3]
         questionInfo=tableInfo[fileName[:3]]
@@ -90,7 +88,6 @@ for root, dirs, files in os.walk(pythonPath):
             shutil.copyfile(oldName,newName)
 #复制java答案
 for root, dirs, files in os.walk(javaPath):
-    print type(files)
     for file in files:
         fileName=file[:-5]
         questionInfo=tableInfo[fileName[:3]]
@@ -101,13 +98,14 @@ for root, dirs, files in os.walk(javaPath):
             print file+'文件未调整位置，马上复制'
             shutil.copyfile(oldName,newName)
 #生成readme.md
+print '开始生成README.MD'
 readme=localPath+'\\README.md'
 f=open(readme,'w')
-f.write('| ID | Title | Note | Java | Python | JavaScript | C++ |\n')
-f.write('|----|:--|:--:|:--:|:--:|:--:|:--:|\n')
+f.write('| ID | Title | Difficulty | Note | Java | Python | JavaScript | C++ |\n')
+f.write('|----|:--|:--:|:--:|:--:|:--:|:--:|:--:|\n')
 for id in tableId:
     q=tableInfo[id]
-    oneLine='|'+q.id+'|['+q.name+']('+q.url+')|'
+    oneLine='|'+q.id+'|['+q.name+']('+q.url+')|'+q.difficulty+'|'
     if q.buy:
         oneLine+='noNote|'
         if q.java:
@@ -124,5 +122,5 @@ for id in tableId:
         oneLine+='noBuy|'*5
     f.write(oneLine)
 f.close
-
+print 'README.MD生成完毕'
 
