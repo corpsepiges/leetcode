@@ -24,21 +24,33 @@ class questionInfo(object):
         self.difficulty=d
         self.java=False
         self.python=False
+        self.js=False
     def toString(self):
-        print self.id,self.name,self.url,self.difficulty,self.java,self.python
-
+        print self.id,self.name,self.url,self.difficulty,self.java,self.python,self.js
+class fileInfo(object):
+    def __init__(self,f,s,t):
+        self.folder=f
+        self.suffix=s
+        self.title=t
 
 #参数1：本地leetcode项目地址
+#办公室
 localPath='E:\github\leetcode'
+#本机
+localPath='D:\workSpace\pythonWorkSpace\leetcode'
 #参数2：自己github项目网址
 githubUrl='https://github.com/corpsepiges/leetcode'
 githubUrl+='/blob/master/Algorithms/'
 #leetcode网站地址
 leetcodeUrl='https://leetcode.com'
-#python答案文件夹
-pythonPath=localPath+'\python'
-#java答案文件夹
-javaPath=localPath+'\java'
+
+python=fileInfo('python','py','Python')
+java=fileInfo('java','java','Java')
+javaScript=fileInfo('js','js','JavaScript')
+fileInfos=[java,python,javaScript]
+
+
+
 #建立文件夹
 folderName=localPath+'\Algorithms'
 if os.path.exists(folderName):
@@ -75,28 +87,24 @@ for i in range(len(questions)-1,-1,-1):
     if not os.path.exists(questionFolderName):
         print questionFolderName+'不存在，马上建立该文件夹'
         os.mkdir(questionFolderName)
-#复制python答案
-for root, dirs, files in os.walk(pythonPath):
-    for file in files:
-        fileName=file[:-3]
-        questionInfo=tableInfo[fileName[:3]]
-        questionInfo.python=True
-        oldName=pythonPath+"/"+fileName+'.py'
-        newName=folderName+"/"+fileName+'/Solution.py'
-        if not os.path.exists(newName):
-            print file+'文件未调整位置，马上复制'
-            shutil.copyfile(oldName,newName)
-#复制java答案
-for root, dirs, files in os.walk(javaPath):
-    for file in files:
-        fileName=file[:-5]
-        questionInfo=tableInfo[fileName[:3]]
-        questionInfo.java=True
-        oldName=javaPath+"/"+fileName+'.java'
-        newName=folderName+"/"+fileName+'/Solution.java'
-        if not os.path.exists(newName):
-            print file+'文件未调整位置，马上复制'
-            shutil.copyfile(oldName,newName)
+#复制答案
+for fi in fileInfos:
+    folder=fi.folder
+    suffix=fi.suffix
+    l=len(suffix)+1
+    namePath=localPath+'\\'+folder
+    for root, dirs, files in os.walk(namePath):
+        for file in files:
+            fileName=file[:-(l)]
+            questionInfo=tableInfo[fileName[:3]]
+            statement='questionInfo.'+folder+'=True'
+            exec(statement)
+            oldName=namePath+"/"+fileName+'.'+suffix
+            newName=folderName+"/"+fileName+'/Solution.'+suffix
+            if not os.path.exists(newName):
+                print file+'文件未调整位置，马上复制'
+                shutil.copyfile(oldName,newName)
+
 #生成readme.md
 print '开始生成README.MD'
 readme=localPath+'\\README.md'
@@ -108,16 +116,14 @@ for id in tableId:
     oneLine='|'+q.id+'|['+q.name+']('+q.url+')|'+q.difficulty+'|'
     if q.buy:
         oneLine+='noNote|'
-        if q.java:
-            oneLine+='[Java]('+githubUrl+q.id+'. '+q.name+'/Solution.java)'
-        else:
-            oneLine+='no'
-        oneLine+='|'
-        if q.python:
-            oneLine+='[Python]('+githubUrl+q.id+'. '+q.name+'/Solution.py)'
-        else:
-            oneLine+='no'
-        oneLine+='|no|no|\n'
+        for fi in fileInfos:
+            folder=fi.folder
+            title=fi.title
+            suffix=fi.suffix
+            statement='oneLine+=((\'['+title+'](\'+githubUrl+q.id+\'. \'+q.name+\'/Solution.'+suffix+')\') if q.'+folder+' else \'no\')'
+            exec(statement)
+            oneLine+='|'
+        oneLine+='no|\n'
     else:
         oneLine+='noBuy|'*5
     f.write(oneLine)
