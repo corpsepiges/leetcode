@@ -1,6 +1,6 @@
 | ID | Title | Difficulty | Note | Java | Python | JavaScript | C++ |
 |----|:--|:--:|:--:|:--:|:--:|:--:|:--:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/001. Two Sum/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/001. Two Sum/Solution.py)|no|no|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/001. Two Sum/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/001. Two Sum/Solution.py)|[JavaScript](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/001. Two Sum/Solution.js)|no|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/002. Add Two Numbers/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/002. Add Two Numbers/Solution.py)|no|no|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/003. Longest Substring Without Repeating Characters/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/003. Longest Substring Without Repeating Characters/Solution.py)|no|no|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Hard|noNote|no|no|no|no|
@@ -264,3 +264,4 @@
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|Medium|noNote|no|no|no|no|
 |333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy||334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Medium|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/334. Increasing Triplet Subsequence/Solution.py)|no|no|
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|Medium|noNote|no|no|no|no|
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|Medium|noNote|no|no|no|no|
