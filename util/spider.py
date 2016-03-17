@@ -37,7 +37,7 @@ class fileInfo(object):
 #办公室
 localPath='E:\github\leetcode'
 #本机
-localPath='D:\workSpace\pythonWorkSpace\leetcode'
+# localPath='D:\workSpace\pythonWorkSpace\leetcode'
 #参数2：自己github项目网址
 githubUrl='https://github.com/corpsepiges/leetcode'
 githubUrl+='/blob/master/Algorithms/'
@@ -103,6 +103,8 @@ for fi in fileInfos:
             newName=folderName+"/"+fileName+'/Solution.'+suffix
             if not os.path.exists(newName):
                 print file+'文件未调整位置，马上复制'
+                print oldName
+                print newName
                 shutil.copyfile(oldName,newName)
 
 #生成readme.md
@@ -125,7 +127,7 @@ for id in tableId:
             oneLine+='|'
         oneLine+='no|\n'
     else:
-        oneLine+='noBuy|'*5
+        oneLine+=('noBuy|'*5+'\n')
     f.write(oneLine)
 f.close
 print 'README.MD生成完毕'
