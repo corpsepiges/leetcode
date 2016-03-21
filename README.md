@@ -222,7 +222,7 @@
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/236. Lowest Common Ancestor of a Binary Tree/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/236. Lowest Common Ancestor of a Binary Tree/Solution.py)|no|no|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/237. Delete Node in a Linked List/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/237. Delete Node in a Linked List/Solution.py)|no|no|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/238. Product of Array Except Self/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/238. Product of Array Except Self/Solution.py)|no|no|
-|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/239. Sliding Window Maximum/Solution.java)|no|no|no|
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/239. Sliding Window Maximum/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/239. Sliding Window Maximum/Solution.py)|no|no|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/240. Search a 2D Matrix II/Solution.java)|no|no|no|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|Medium|noNote|no|no|no|no|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/242. Valid Anagram/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/242. Valid Anagram/Solution.py)|no|no|
@@ -243,7 +243,7 @@
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/257. Binary Tree Paths/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/257. Binary Tree Paths/Solution.py)|no|no|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/258. Add Digits/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/258. Add Digits/Solution.py)|no|no|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
-|260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/260. Single Number III/Solution.java)|no|no|no|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/260. Single Number III/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/260. Single Number III/Solution.py)|no|no|
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/263. Ugly Number/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/263. Ugly Number/Solution.py)|no|no|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/264. Ugly Number II/Solution.java)|no|no|no|
@@ -298,7 +298,7 @@
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|Medium|noNote|no|no|no|no|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/315. Count of Smaller Numbers After Self/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/315. Count of Smaller Numbers After Self/Solution.py)|no|no|
-|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/316. Remove Duplicate Letters/Solution.java)|no|no|no|
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/316. Remove Duplicate Letters/Solution.java)|no|no|no|
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/318. Maximum Product of Word Lengths/Solution.java)|no|no|no|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|Medium|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/319. Bulb Switcher/Solution.py)|no|no|
@@ -320,3 +320,4 @@
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|Medium|noNote|no|no|no|no|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|Hard|noNote|no|no|no|no|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/337. House Robber III/Solution.py)|no|no|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|noNote|no|no|no|no|
