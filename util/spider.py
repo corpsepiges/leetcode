@@ -48,8 +48,10 @@ python=fileInfo('python','py','Python')
 java=fileInfo('java','java','Java')
 javaScript=fileInfo('js','js','JavaScript')
 fileInfos=[java,python,javaScript]
-
-
+#统计各语言完成数量
+finishNumber={}
+#统计免费的题目数量
+freeNumber=0
 
 #建立文件夹
 folderName=localPath+'\Algorithms'
@@ -93,8 +95,10 @@ for fi in fileInfos:
     suffix=fi.suffix
     l=len(suffix)+1
     namePath=localPath+'\\'+folder
+    finishNum=0
     for root, dirs, files in os.walk(namePath):
         for file in files:
+            finishNum+=1
             fileName=file[:-(l)]
             questionInfo=tableInfo[fileName[:3]]
             statement='questionInfo.'+folder+'=True'
@@ -106,7 +110,7 @@ for fi in fileInfos:
                 print oldName
                 print newName
                 shutil.copyfile(oldName,newName)
-
+    finishNumber[folder]=finishNum
 #生成readme.md
 print '开始生成README.MD'
 readme=localPath+'\\README.md'
@@ -126,9 +130,11 @@ for id in tableId:
             exec(statement)
             oneLine+='|'
         oneLine+='no|\n'
+        freeNumber+=1
     else:
         oneLine+=('noBuy|'*5+'\n')
     f.write(oneLine)
 f.close
 print 'README.MD生成完毕'
-
+print finishNumber
+print freeNumber

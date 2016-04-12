@@ -120,7 +120,7 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/118. Pascal's Triangle/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/118. Pascal's Triangle/Solution.py)|no|no|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/119. Pascal's Triangle II/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/119. Pascal's Triangle II/Solution.py)|no|no|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/120. Triangle/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/120. Triangle/Solution.py)|no|no|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/121. Best Time to Buy and Sell Stock/Solution.java)|no|no|no|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/121. Best Time to Buy and Sell Stock/Solution.java)|no|no|no|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/122. Best Time to Buy and Sell Stock II/Solution.java)|no|no|no|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/123. Best Time to Buy and Sell Stock III/Solution.java)|no|no|no|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|Hard|noNote|no|no|no|no|
@@ -207,11 +207,11 @@
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/221. Maximal Square/Solution.java)|no|no|no|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/222. Count Complete Tree Nodes/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/222. Count Complete Tree Nodes/Solution.py)|no|no|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/223. Rectangle Area/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/223. Rectangle Area/Solution.py)|no|no|
-|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|Medium|noNote|no|no|no|no|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|Hard|noNote|no|no|no|no|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/225. Implement Stack using Queues/Solution.java)|no|no|no|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/226. Invert Binary Tree/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/226. Invert Binary Tree/Solution.py)|no|no|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|Medium|noNote|no|no|no|no|
-|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/228. Summary Ranges/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/228. Summary Ranges/Solution.py)|no|no|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/228. Summary Ranges/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/228. Summary Ranges/Solution.py)|no|no|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/229. Majority Element II/Solution.java)|no|no|no|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/230. Kth Smallest Element in a BST/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/230. Kth Smallest Element in a BST/Solution.py)|no|no|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/231. Power of Two/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/231. Power of Two/Solution.py)|no|no|
@@ -306,19 +306,21 @@
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|Hard|noNote|no|no|no|no|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/322. Coin Change/Solution.java)|no|no|no|
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
-|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium|noNote|no|no|no|no|
+|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/324. Wiggle Sort II/Solution.py)|no|no|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|Easy|noNote|no|no|no|no|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|Hard|noNote|no|no|no|no|
-|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.py)|no|no|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.py)|no|no|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/329. Longest Increasing Path in a Matrix/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/329. Longest Increasing Path in a Matrix/Solution.py)|no|no|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|Medium|noNote|no|no|no|no|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/331. Verify Preorder Serialization of a Binary Tree/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/331. Verify Preorder Serialization of a Binary Tree/Solution.py)|no|no|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|Medium|noNote|no|no|no|no|
 |333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Medium|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/334. Increasing Triplet Subsequence/Solution.py)|no|no|
-|335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|Medium|noNote|no|no|no|no|
+|335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|Hard|noNote|no|no|no|no|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|Hard|noNote|no|no|no|no|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/337. House Robber III/Solution.py)|no|no|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|noNote|no|no|no|no|
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
