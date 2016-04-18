@@ -12,7 +12,7 @@
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/010. Regular Expression Matching/Solution.java)|no|no|no|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/011. Container With Most Water/Solution.java)|no|no|no|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/012. Integer to Roman/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/012. Integer to Roman/Solution.py)|no|no|
-|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/013. Roman to Integer/Solution.java)|no|no|no|
+|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/013. Roman to Integer/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/013. Roman to Integer/Solution.py)|no|no|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/014. Longest Common Prefix/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/014. Longest Common Prefix/Solution.py)|no|no|
 |015|[3Sum](https://leetcode.com/problems/3sum/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/015. 3Sum/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/015. 3Sum/Solution.py)|[JavaScript](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/015. 3Sum/Solution.js)|no|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/016. 3Sum Closest/Solution.java)|no|no|no|
@@ -300,7 +300,7 @@
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/315. Count of Smaller Numbers After Self/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/315. Count of Smaller Numbers After Self/Solution.py)|no|no|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/316. Remove Duplicate Letters/Solution.java)|no|no|no|
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|
-|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/318. Maximum Product of Word Lengths/Solution.java)|no|no|no|
+|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/318. Maximum Product of Word Lengths/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/318. Maximum Product of Word Lengths/Solution.py)|no|no|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|Medium|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/319. Bulb Switcher/Solution.py)|no|no|
 |320|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|Hard|noNote|no|no|no|no|
@@ -308,7 +308,7 @@
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/324. Wiggle Sort II/Solution.py)|no|no|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|Easy|noNote|no|no|no|no|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|Easy|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/326. Power of Three/Solution.py)|no|no|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|Hard|noNote|no|no|no|no|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.py)|no|no|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/329. Longest Increasing Path in a Matrix/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/329. Longest Increasing Path in a Matrix/Solution.py)|no|no|
@@ -323,4 +323,5 @@
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|noNote|no|no|no|no|
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|
-|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/341. Flatten Nested List Iterator/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/341. Flatten Nested List Iterator/Solution.py)|no|no|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/)|Easy|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/342. Power of Four/Solution.py)|no|no|
