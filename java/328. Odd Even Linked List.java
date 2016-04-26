@@ -9,7 +9,7 @@
 public class Solution {
     public ListNode oddEvenList(ListNode head) {
         if(head==null||head.next==null){
-        	return head;
+            return head;
         }
         ListNode odd=head;
         ListNode even=head.next;
@@ -19,16 +19,16 @@ public class Solution {
         head=head.next.next;
         int i=1;
         while (head!=null) {
-        	if (i%2==0) {
-        		even.next=head;
-				even=even.next;
-			}else {
-				odd.next=head;
-        		odd=odd.next;
-			}
-			head=head.next;
-			i++;
-		}
+            if (i%2==0) {
+                even.next=head;
+                even=even.next;
+            }else {
+                odd.next=head;
+                odd=odd.next;
+            }
+            head=head.next;
+            i++;
+        }
         even.next=null;
         odd.next=evenStart;
         return oddStart;

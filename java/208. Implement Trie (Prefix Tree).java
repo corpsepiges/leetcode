@@ -18,7 +18,7 @@ public class Trie {
     // Inserts a word into the trie.
     public void insert(String word) {
         if(!search(word)){
-        	TrieNode tt=root;
+            TrieNode tt=root;
             char[] ac=word.toCharArray();
             for(int i=0;i<ac.length;i++){
                 Map<Character,TrieNode> sons=root.sons;
@@ -42,7 +42,7 @@ public class Trie {
 
     // Returns if the word is in the trie.
     public boolean search(String word) {
-    	TrieNode tt=root;
+        TrieNode tt=root;
         char[] ac=word.toCharArray();
         for(int i=0;i<ac.length;i++){
             Map<Character,TrieNode> sons=root.sons;
@@ -60,7 +60,7 @@ public class Trie {
     // Returns if there is any word in the trie
     // that starts with the given prefix.
     public boolean startsWith(String prefix) {
-    	TrieNode tt=root;
+        TrieNode tt=root;
         char[] ac=prefix.toCharArray();
         for(int i=0;i<ac.length;i++){
             Map<Character,TrieNode> sons=root.sons;

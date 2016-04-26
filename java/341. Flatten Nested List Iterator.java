@@ -17,9 +17,9 @@
  */
 public class NestedIterator implements Iterator<Integer> {
     private List<Integer> ans;
-	private int index;
-	private int length;
-	
+    private int index;
+    private int length;
+    
     public NestedIterator(List<NestedInteger> nestedList) {
         ans=init(nestedList);
         index=0;
@@ -28,24 +28,24 @@ public class NestedIterator implements Iterator<Integer> {
 
     @Override
     public Integer next() {
-		return index<length?ans.get(index++):null;
+        return index<length?ans.get(index++):null;
     }
 
     @Override
     public boolean hasNext() {
-		return index<length;
+        return index<length;
     }
     
     public List<Integer> init(List<NestedInteger> nestedList){
-    	List<Integer> list=new ArrayList<Integer>();
-    	for (NestedInteger nestedInteger : nestedList) {
-			if (nestedInteger.isInteger()) {
-				list.add(nestedInteger.getInteger());
-			}else{
-				list.addAll(init(nestedInteger.getList()));
-			}
-		}
-    	return list;
+        List<Integer> list=new ArrayList<Integer>();
+        for (NestedInteger nestedInteger : nestedList) {
+            if (nestedInteger.isInteger()) {
+                list.add(nestedInteger.getInteger());
+            }else{
+                list.addAll(init(nestedInteger.getList()));
+            }
+        }
+        return list;
     }
 }
 

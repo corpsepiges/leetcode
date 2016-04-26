@@ -23,9 +23,9 @@ class MedianFinder {
             if(list.get(e)<num){
                 list.add(e+1,num);
             }else if(list.get(s)>num){
-            	list.add(s,num);
+                list.add(s,num);
             }else{
-            	list.add(e,num);
+                list.add(e,num);
             }
         }
     }
