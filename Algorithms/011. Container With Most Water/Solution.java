@@ -4,16 +4,16 @@ public class Solution {
         int right=height.length-1;
         int ans=(right-left)*Math.min(height[left], height[right]);
         while (right>left) {
-        	int water=(right-left)*Math.min(height[left], height[right]);
-        	if (water>ans) {
-				ans=water;
-			}
-        	if (height[left]<height[right]) {
-				left++;
-			}else {
-				right--;
-			}
-		}
+            int water=(right-left)*Math.min(height[left], height[right]);
+            if (water>ans) {
+                ans=water;
+            }
+            if (height[left]<height[right]) {
+                left++;
+            }else {
+                right--;
+            }
+        }
         return ans;
     }
 }

@@ -11,17 +11,17 @@ public class Solution {
         List<ListNode> list=new ArrayList<ListNode>();
         list=addlist(head, list);
         if (list.size()==n) {
-			return head.next;
-		}
+            return head.next;
+        }
         list.get(list.size()-n-1).next=n==1?null:list.get(list.size()-n+1);
         return head;
     }
     public  List<ListNode> addlist(ListNode head, List<ListNode> list){
-    	if (head!=null) {
-		    list.add(head);
-		}else {
-			return list;
-		}
-    	return addlist(head.next, list);
+        if (head!=null) {
+            list.add(head);
+        }else {
+            return list;
+        }
+        return addlist(head.next, list);
     }
 }

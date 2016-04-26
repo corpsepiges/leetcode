@@ -8,16 +8,16 @@
  */
 public class Solution {
     public RandomListNode copyRandomList(RandomListNode head) {
-    	RandomListNode answer=null;
-    	if (head!=null) {
-			answer=new RandomListNode(head.label);
-		}else {
-			return null;
-		}
-    	if (head.random!=null) {
-    		answer.random=new RandomListNode(head.random.label);
-		}
-    	answer.next=copyRandomList(head.next);
-    	return answer;
+        RandomListNode answer=null;
+        if (head!=null) {
+            answer=new RandomListNode(head.label);
+        }else {
+            return null;
+        }
+        if (head.random!=null) {
+            answer.random=new RandomListNode(head.random.label);
+        }
+        answer.next=copyRandomList(head.next);
+        return answer;
     }
 }

@@ -16,23 +16,23 @@ public class Solution {
         return compare(headA, a, headB, b);
     }
     public ListNode compare(ListNode headA,int a, ListNode headB,int b) {
-			if (a>b) {
-				return compare(headA.next, a-1, headB, b);
-			}else if (a<b) {
-				return compare(headA, a, headB.next, b-1);
-			}else {
-				if (headA==headB) {
-					return headA;
-				}else {
-					return compare(headA.next, a-1, headB.next, b-1);
-				}
-			}
+            if (a>b) {
+                return compare(headA.next, a-1, headB, b);
+            }else if (a<b) {
+                return compare(headA, a, headB.next, b-1);
+            }else {
+                if (headA==headB) {
+                    return headA;
+                }else {
+                    return compare(headA.next, a-1, headB.next, b-1);
+                }
+            }
     }
     public int Count(ListNode head,int i){
-    	if (head!=null) {
-			i++;
-			i=Count(head.next,i);
-		}
-    	return i;
+        if (head!=null) {
+            i++;
+            i=Count(head.next,i);
+        }
+        return i;
     }
 }

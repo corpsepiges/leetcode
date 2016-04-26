@@ -1,14 +1,14 @@
 public class Solution {
-	int ans=Integer.MIN_VALUE;
+    int ans=Integer.MIN_VALUE;
     public int threeSumClosest(int[] nums, int target) {
-    	Arrays.sort(nums);  
-    	int length=nums.length;  
+        Arrays.sort(nums);  
+        int length=nums.length;  
         for (int i = 0; i < length-2; i++) {  
             if (i==0||nums[i]!=nums[i-1]) {  
                 f(nums,i,i+1,length-1,target);
                 if (ans==0) {
-					return target;
-				}
+                    return target;
+                }
             }  
         }  
         return target+ans;  
@@ -25,8 +25,8 @@ public class Solution {
                 e--;  
             }
             if (ans/res!=0) {
-				ans=res;
-			}
+                ans=res;
+            }
         }  
     };  
 }
