@@ -291,7 +291,7 @@
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/306. Additive Number/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/306. Additive Number/Solution.py)|no|no|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/307. Range Sum Query - Mutable/Solution.java)|no|no|no|
 |308|[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|
-|309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium|noNote|no|no|no|no|
+|309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/309. Best Time to Buy and Sell Stock with Cooldown/Solution.java)|no|no|no|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|Medium|noNote|no|no|no|no|
 |311|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|Hard|noNote|no|no|no|no|
@@ -331,3 +331,6 @@
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/347. Top K Frequent Elements/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/347. Top K Frequent Elements/Solution.py)|no|no|
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/349. Intersection of Two Arrays/Solution.java)|no|no|no|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/350. Intersection of Two Arrays II/Solution.java)|no|no|no|
+|351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
