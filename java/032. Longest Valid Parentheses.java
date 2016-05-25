@@ -8,9 +8,9 @@ public class Solution {
         char[] c=s.toCharArray();
         int[] vals=new int[length];
         for (int i = length-2; i >= 0; i--) {
-            if (c[i]==&#39;(&#39;) {
+            if (c[i]=='(') {
                 int t=i+1+vals[i+1];
-                if (t<length&&c[t]==&#39;)&#39;) {
+                if (t<length&&c[t]==')') {
                     vals[i]=vals[i+1]+2;
                     vals[i]+=((t+1<length)?vals[t+1]:0);
                     ans=ans<vals[i]?vals[i]:ans;

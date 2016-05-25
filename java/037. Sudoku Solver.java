@@ -1,31 +1,31 @@
-public class Solution {
+﻿public class Solution {
     public void solveSudoku(char[][] board) {
         //true表示需要填的
         boolean[][] flag=new boolean[9][9];
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
-                flag[i][j]=board[i][j]==&#39;.&#39;;
+                flag[i][j]=board[i][j]=='.';
             }
         }
         for (int i = 0; i < 81;) {
             int x=i/9;
             int y=i%9;
             if (flag[x][y]) {
-                if (board[x][y]==&#39;.&#39;) {
-                    board[x][y]=&#39;1&#39;;
+                if (board[x][y]=='.') {
+                    board[x][y]='1';
                     if (f(board,x,y,board[x][y])) {
                         i++;
                     }
-                }else if(board[x][y]<&#39;9&#39;){
+                }else if(board[x][y]<'9'){
                     board[x][y]++;
                     if (f(board,x,y,board[x][y])) {
                         i++;
                     }
                 }else {
                     //回退
-                    while ((!flag[x][y])||board[x][y]==&#39;9&#39;) {
+                    while ((!flag[x][y])||board[x][y]=='9') {
                         if (flag[x][y]) {
-                            board[x][y]=&#39;.&#39;;
+                            board[x][y]='.';
                         }
                         i--;
                         if (i<0) {

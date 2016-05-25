@@ -9,7 +9,7 @@ public class Solution {
             }
             char[] c=p.toCharArray();
             for (int i = 1; i < c.length; i+=2) {
-                if (c[i]!=&#39;*&#39;) {
+                if (c[i]!='*') {
                     return false;
                 }
             }

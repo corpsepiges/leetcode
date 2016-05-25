@@ -13,7 +13,7 @@ public class Solution {
             char[] cs=str.toCharArray();
             for (int i = 0; i < cs.length; i++) {
                 char k=cs[i];
-                for (char j = &#39;a&#39;; j <=&#39;z&#39;; j++) {
+                for (char j = 'a'; j <='z'; j++) {
                     if (j!=k) {
                         cs[i]=j;
                         String test=String.valueOf(cs);
