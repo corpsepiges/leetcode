@@ -334,3 +334,4 @@
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/349. Intersection of Two Arrays/Solution.java)|no|no|no|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/350. Intersection of Two Arrays II/Solution.java)|no|no|no|
 |351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
+|352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/352. Data Stream as Disjoint Intervals/Solution.java)|no|no|no|
