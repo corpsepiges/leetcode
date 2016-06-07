@@ -335,3 +335,5 @@
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/350. Intersection of Two Arrays II/Solution.java)|no|no|no|
 |351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/352. Data Stream as Disjoint Intervals/Solution.java)|no|no|no|
+|353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
+|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/354. Russian Doll Envelopes/Solution.java)|no|no|no|
