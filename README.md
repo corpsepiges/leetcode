@@ -337,3 +337,5 @@
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/352. Data Stream as Disjoint Intervals/Solution.java)|no|no|no|
 |353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/354. Russian Doll Envelopes/Solution.java)|no|no|no|
+|355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/355. Design Twitter/Solution.java)|no|no|no|
+|356|[Line Reflection](https://leetcode.com/problems/line-reflection/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
