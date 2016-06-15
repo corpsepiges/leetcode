@@ -7,7 +7,7 @@
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|noNote|no|no|no|no|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/006. ZigZag Conversion/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/006. ZigZag Conversion/Solution.py)|no|no|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/007. Reverse Integer/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/007. Reverse Integer/Solution.py)|no|no|
-|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Easy|noNote|no|no|no|no|
+|008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/008. String to Integer (atoi)/Solution.java)|no|no|no|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/009. Palindrome Number/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/009. Palindrome Number/Solution.py)|no|no|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/010. Regular Expression Matching/Solution.java)|no|no|no|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/011. Container With Most Water/Solution.java)|no|no|no|
@@ -307,7 +307,7 @@
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/322. Coin Change/Solution.java)|no|no|no|
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/324. Wiggle Sort II/Solution.py)|no|no|
-|325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/326. Power of Three/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/326. Power of Three/Solution.py)|no|no|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|Hard|noNote|no|no|no|no|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.py)|no|no|
@@ -340,3 +340,4 @@
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/355. Design Twitter/Solution.java)|no|no|no|
 |356|[Line Reflection](https://leetcode.com/problems/line-reflection/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/357. Count Numbers with Unique Digits/Solution.java)|no|no|no|
+|358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|
