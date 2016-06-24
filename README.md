@@ -312,7 +312,7 @@
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|Hard|noNote|no|no|no|no|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.py)|no|no|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/329. Longest Increasing Path in a Matrix/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/329. Longest Increasing Path in a Matrix/Solution.py)|no|no|
-|330|[Patching Array](https://leetcode.com/problems/patching-array/)|Medium|noNote|no|no|no|no|
+|330|[Patching Array](https://leetcode.com/problems/patching-array/)|Hard|noNote|no|no|no|no|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/331. Verify Preorder Serialization of a Binary Tree/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/331. Verify Preorder Serialization of a Binary Tree/Solution.py)|no|no|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|Medium|noNote|no|no|no|no|
 |333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
@@ -341,3 +341,9 @@
 |356|[Line Reflection](https://leetcode.com/problems/line-reflection/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/357. Count Numbers with Unique Digits/Solution.java)|no|no|no|
 |358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|
+|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
+|361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
+|362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
+|363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/363. Max Sum of Rectangle No Larger Than K/Solution.java)|no|no|no|
+|364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
