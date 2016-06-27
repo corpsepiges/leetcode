@@ -347,3 +347,7 @@
 |362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/363. Max Sum of Rectangle No Larger Than K/Solution.java)|no|no|no|
 |364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
+|365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/365. Water and Jug Problem/Solution.java)|no|no|no|
+|366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/367. Valid Perfect Square/Solution.java)|no|no|no|
+|368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/368. Largest Divisible Subset/Solution.java)|no|no|no|
