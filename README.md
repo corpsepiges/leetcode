@@ -351,3 +351,8 @@
 |366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/367. Valid Perfect Square/Solution.java)|no|no|no|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/368. Largest Divisible Subset/Solution.java)|no|no|no|
+|369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
+|370|[Range Addition](https://leetcode.com/problems/range-addition/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/371. Sum of Two Integers/Solution.java)|no|no|no|
+|372|[Super Pow](https://leetcode.com/problems/super-pow/)|Medium|noNote|no|no|no|no|
+|373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/373. Find K Pairs with Smallest Sums/Solution.java)|no|no|no|
