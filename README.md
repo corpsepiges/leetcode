@@ -356,3 +356,4 @@
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/371. Sum of Two Integers/Solution.java)|no|no|no|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/372. Super Pow/Solution.java)|no|no|no|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/373. Find K Pairs with Smallest Sums/Solution.java)|no|no|no|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/374. Guess Number Higher or Lower/Solution.java)|no|no|no|
