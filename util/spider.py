@@ -22,32 +22,36 @@ class questionInfo(object):
         self.url=u
         self.buy=b
         self.difficulty=d
+        #语言信息
         self.java=False
         self.python=False
         self.js=False
+        self.ruby=False
     def toString(self):
         print self.id,self.name,self.url,self.difficulty,self.java,self.python,self.js
 class fileInfo(object):
     def __init__(self,f,s,t):
+        #文件夹
         self.folder=f
+        #后缀
         self.suffix=s
+        #标题
         self.title=t
 
 #参数1：本地leetcode项目地址
-#办公室
-localPath='E:\github\leetcode'
-#本机
-# localPath='D:\workSpace\pythonWorkSpace\leetcode'
+#笔记本
+localPath='D:\workSpace\GitHub\leetcode'
 #参数2：自己github项目网址
 githubUrl='https://github.com/corpsepiges/leetcode'
 githubUrl+='/blob/master/Algorithms/'
 #leetcode网站地址
 leetcodeUrl='https://leetcode.com'
-
+#构造文件信息
 python=fileInfo('python','py','Python')
 java=fileInfo('java','java','Java')
 javaScript=fileInfo('js','js','JavaScript')
-fileInfos=[java,python,javaScript]
+ruby=fileInfo('ruby','rb','Ruby')
+fileInfos=[java,python,ruby,javaScript]
 #统计各语言完成数量
 finishNumber={}
 #统计免费的题目数量
@@ -115,8 +119,11 @@ for fi in fileInfos:
 print '开始生成README.MD'
 readme=localPath+'\\README.md'
 f=open(readme,'w')
-f.write('| ID | Title | Difficulty | Note | Java | Python | JavaScript | C++ |\n')
-f.write('|----|:--|:--:|:--:|:--:|:--:|:--:|:--:|\n')
+f.write('| ID | Title | Difficulty | Note | Java | Python | Ruby | JavaScript | C++ |\n')
+formatStr='|----|:--|'
+formatStr+=(':--:|'*(len(fileInfos)+3))
+formatStr+='\n'
+f.write(formatStr)
 for id in tableId:
     q=tableInfo[id]
     oneLine='|'+q.id+'|['+q.name+']('+q.url+')|'+q.difficulty+'|'
@@ -132,7 +139,7 @@ for id in tableId:
         oneLine+='no|\n'
         freeNumber+=1
     else:
-        oneLine+=('noBuy|'*5+'\n')
+        oneLine+=('noBuy|'*(len(fileInfos)+2)+'\n')
     f.write(oneLine)
 f.close
 print 'README.MD生成完毕'
