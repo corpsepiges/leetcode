@@ -363,4 +363,4 @@
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/378. Kth Smallest Element in a Sorted Matrix/Solution.java)|no|no|no|no|
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/380. Insert Delete GetRandom O(1)/Solution.java)|no|no|no|no|
-|381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|Medium|noNote|no|no|no|no|no|
+|381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/381. Insert Delete GetRandom O(1) - Duplicates allowed/Solution.java)|no|no|no|no|
