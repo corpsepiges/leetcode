@@ -166,7 +166,7 @@
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/164. Maximum Gap/Solution.java)|no|no|no|no|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/165. Compare Version Numbers/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/165. Compare Version Numbers/Solution.py)|no|no|no|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/166. Fraction to Recurring Decimal/Solution.java)|no|no|no|no|
-|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|noNote|no|no|no|no|no|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/168. Excel Sheet Column Title/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/168. Excel Sheet Column Title/Solution.py)|no|no|no|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/169. Majority Element/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/169. Majority Element/Solution.py)|no|no|no|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
@@ -368,3 +368,6 @@
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/383. Ransom Note/Solution.java)|no|no|no|no|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/384. Shuffle an Array/Solution.java)|no|no|no|no|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/385. Mini Parser/Solution.java)|no|no|no|no|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|Medium|noNote|no|no|no|no|no|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Easy|noNote|no|no|no|no|no|
+|388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|Medium|noNote|no|no|no|no|no|
