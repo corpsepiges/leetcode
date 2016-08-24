@@ -368,6 +368,6 @@
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/383. Ransom Note/Solution.java)|no|no|no|no|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/384. Shuffle an Array/Solution.java)|no|no|no|no|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/385. Mini Parser/Solution.java)|no|no|no|no|
-|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|Medium|noNote|no|no|no|no|no|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Easy|noNote|no|no|no|no|no|
-|388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|Medium|noNote|no|no|no|no|no|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/386. Lexicographical Numbers/Solution.java)|no|no|no|no|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/387. First Unique Character in a String/Solution.java)|no|no|no|no|
+|388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/388. Longest Absolute File Path/Solution.java)|no|no|no|no|
