@@ -135,7 +135,7 @@
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/133. Clone Graph/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/133. Clone Graph/Solution.py)|no|no|no|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/134. Gas Station/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/134. Gas Station/Solution.py)|no|no|no|
 |135|[Candy](https://leetcode.com/problems/candy/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/135. Candy/Solution.java)|no|no|no|no|
-|136|[Single Number](https://leetcode.com/problems/single-number/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/136. Single Number/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/136. Single Number/Solution.py)|no|no|no|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/136. Single Number/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/136. Single Number/Solution.py)|no|no|no|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/137. Single Number II/Solution.java)|no|no|no|no|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/138. Copy List with Random Pointer/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/138. Copy List with Random Pointer/Solution.py)|no|no|no|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/139. Word Break/Solution.java)|no|no|no|no|
@@ -371,3 +371,10 @@
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/386. Lexicographical Numbers/Solution.java)|no|no|no|no|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/387. First Unique Character in a String/Solution.java)|no|no|no|no|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/388. Longest Absolute File Path/Solution.java)|no|no|no|no|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/389. Find the Difference/Solution.java)|no|no|no|no|
+|390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|Medium|noNote|no|no|no|no|no|
+|391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|Hard|noNote|no|no|no|no|no|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Medium|noNote|no|no|no|no|no|
+|393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|Medium|noNote|no|no|no|no|no|
+|394|[Decode String](https://leetcode.com/problems/decode-string/)|Medium|noNote|no|no|no|no|no|
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|Medium|noNote|no|no|no|no|no|

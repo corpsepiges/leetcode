@@ -1,8 +1,7 @@
 #coding=utf-8
 __author__ = 'xuxuan'
 import requests
-import BeautifulSoup
-import re
+import json
 import os
 import shutil
 #本项目只需要配置2个参数：
@@ -64,26 +63,28 @@ if os.path.exists(folderName):
 else:
     print 'Algorithms不存在，马上建立该文件夹'
     os.mkdir(folderName)
-page=requests.get('https://leetcode.com/problemset/algorithms/')
-page=page.content
-soup = BeautifulSoup.BeautifulSoup(page)
-q=soup.findAll('tr')
-re_rules = r'"None"> </span>\n</td>\n<td>(.+?)</td>\n<td>\n<a href="(.+?)">(.+?)</a>(.+?)</td>(.+?)%">(.+?)</td>\n</tr>'
-print '建立规则'
-p = re.compile(re_rules,re.DOTALL)
-print '生成p'
-questions = p.findall(str(q))
+page=requests.get('https://leetcode.com/api/problems/algorithms/').content
+infos=json.loads(page)
+questions=infos['stat_status_pairs']
 tableId=[]
 tableInfo={}
+difficultyIndex=['Easy','Medium','Hard']
 for i in range(len(questions)-1,-1,-1):
     question=questions[i]
-    [id,url,name,buy,acceptance,difficulty]=question
+    name = question['stat'][u'question__title'].encode("utf-8")
+    url = question['stat'][u'question__title_slug'].encode("utf-8")
+    id = question['stat'][u'question_id']
+    buy = question['paid_only']
+    difficulty = question['difficulty'][u'level']
+    # [id,url,name,buy,acceptance,difficulty]=question
+    id=str(id)
+    buy=not buy
+    difficulty=difficultyIndex[difficulty-1]
     if int(id)<10:
         id='00'+id
     elif int(id)<100:
         id='0'+id
-    url=leetcodeUrl+url
-    buy=len(buy)<5
+    url=leetcodeUrl+'/problems/'+url+'/'
     tableId.append(id)
     if name.__contains__('&#39;'):
         name=name.replace('&#39;','\'')
