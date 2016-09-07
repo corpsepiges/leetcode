@@ -374,7 +374,7 @@
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/389. Find the Difference/Solution.java)|no|no|no|no|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|Medium|noNote|no|no|no|no|no|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|Hard|noNote|no|no|no|no|no|
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Medium|noNote|no|no|no|no|no|
-|393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|Medium|noNote|no|no|no|no|no|
-|394|[Decode String](https://leetcode.com/problems/decode-string/)|Medium|noNote|no|no|no|no|no|
-|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|Medium|noNote|no|no|no|no|no|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/392. Is Subsequence/Solution.java)|no|no|no|no|
+|393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/393. UTF-8 Validation/Solution.java)|no|no|no|no|
+|394|[Decode String](https://leetcode.com/problems/decode-string/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/394. Decode String/Solution.java)|no|no|no|no|
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/395. Longest Substring with At Least K Repeating Characters/Solution.java)|no|no|no|no|
