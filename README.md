@@ -372,7 +372,7 @@
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/387. First Unique Character in a String/Solution.java)|no|no|no|no|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/388. Longest Absolute File Path/Solution.java)|no|no|no|no|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/389. Find the Difference/Solution.java)|no|no|no|no|
-|390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|Medium|noNote|no|no|no|no|no|
+|390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/390. Elimination Game/Solution.java)|no|no|no|no|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/391. Perfect Rectangle/Solution.java)|no|no|no|no|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/392. Is Subsequence/Solution.java)|no|no|no|no|
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/393. UTF-8 Validation/Solution.java)|no|no|no|no|
@@ -382,3 +382,7 @@
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/397. Integer Replacement/Solution.java)|no|no|no|no|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/398. Random Pick Index/Solution.java)|no|no|no|no|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|Medium|noNote|no|no|no|no|no|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|Easy|noNote|no|no|no|no|no|
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/401. Binary Watch/Solution.java)|no|no|no|no|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/402. Remove K Digits/Solution.java)|no|no|no|no|
+|403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|Hard|noNote|no|no|no|no|no|
