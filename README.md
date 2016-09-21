@@ -382,7 +382,7 @@
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/397. Integer Replacement/Solution.java)|no|no|no|no|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/398. Random Pick Index/Solution.java)|no|no|no|no|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|Medium|noNote|no|no|no|no|no|
-|400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|Easy|noNote|no|no|no|no|no|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/400. Nth Digit/Solution.java)|no|no|no|no|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/401. Binary Watch/Solution.java)|no|no|no|no|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/402. Remove K Digits/Solution.java)|no|no|no|no|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|Hard|noNote|no|no|no|no|no|
