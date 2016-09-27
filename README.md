@@ -385,4 +385,8 @@
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/400. Nth Digit/Solution.java)|no|no|no|no|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/401. Binary Watch/Solution.java)|no|no|no|no|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/402. Remove K Digits/Solution.java)|no|no|no|no|
-|403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|Hard|noNote|no|no|no|no|no|
+|403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/403. Frog Jump/Solution.java)|no|no|no|no|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/404. Sum of Left Leaves/Solution.java)|no|no|no|no|
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/405. Convert a Number to Hexadecimal/Solution.java)|no|no|no|no|
+|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/406. Queue Reconstruction by Height/Solution.java)|no|no|no|no|
+|407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|Hard|noNote|no|no|no|no|no|
