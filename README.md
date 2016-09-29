@@ -155,27 +155,26 @@
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/153. Find Minimum in Rotated Sorted Array/Solution.java)|no|no|no|no|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/154. Find Minimum in Rotated Sorted Array II/Solution.java)|no|no|no|no|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/155. Min Stack/Solution.java)|no|no|no|no|
-|156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)|Easy|noNote|no|no|no|no|no|
+|158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|Hard|noNote|no|no|no|no|no|
+|159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|Hard|noNote|no|no|no|no|no|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/160. Intersection of Two Linked Lists/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/160. Intersection of Two Linked Lists/Solution.py)|no|no|no|
-|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|Medium|noNote|no|no|no|no|no|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/162. Find Peak Element/Solution.java)|no|no|no|no|
-|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|Medium|noNote|no|no|no|no|no|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/164. Maximum Gap/Solution.java)|no|no|no|no|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/165. Compare Version Numbers/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/165. Compare Version Numbers/Solution.py)|no|no|no|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/166. Fraction to Recurring Decimal/Solution.java)|no|no|no|no|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/167. Two Sum II - Input array is sorted/Solution.java)|no|no|no|no|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/168. Excel Sheet Column Title/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/168. Excel Sheet Column Title/Solution.py)|no|no|no|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/169. Majority Element/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/169. Majority Element/Solution.py)|no|no|no|
-|170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|Easy|noNote|no|no|no|no|no|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/171. Excel Sheet Column Number/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/171. Excel Sheet Column Number/Solution.py)|no|no|no|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/172. Factorial Trailing Zeroes/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/172. Factorial Trailing Zeroes/Solution.py)|no|no|no|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/173. Binary Search Tree Iterator/Solution.java)|no|no|no|no|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|Hard|noNote|no|no|no|no|no|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/179. Largest Number/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/179. Largest Number/Solution.py)|no|no|no|
-|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|Medium|noNote|no|no|no|no|no|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/187. Repeated DNA Sequences/Solution.java)|no|no|no|no|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|Hard|noNote|no|no|no|no|no|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/189. Rotate Array/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/189. Rotate Array/Solution.py)|no|no|no|
@@ -226,88 +225,88 @@
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/240. Search a 2D Matrix II/Solution.java)|no|no|no|no|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|Medium|noNote|no|no|no|no|no|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/242. Valid Anagram/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/242. Valid Anagram/Solution.py)|no|no|no|
-|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|248|[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|256|[Paint House](https://leetcode.com/problems/paint-house/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|Easy|noNote|no|no|no|no|no|
+|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|Medium|noNote|no|no|no|no|no|
+|245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|Medium|noNote|no|no|no|no|no|
+|246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|Easy|noNote|no|no|no|no|no|
+|247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|Medium|noNote|no|no|no|no|no|
+|248|[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/)|Hard|noNote|no|no|no|no|no|
+|249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|Easy|noNote|no|no|no|no|no|
+|250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|Medium|noNote|no|no|no|no|no|
+|251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|Medium|noNote|no|no|no|no|no|
+|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|Easy|noNote|no|no|no|no|no|
+|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|Medium|noNote|no|no|no|no|no|
+|254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|Medium|noNote|no|no|no|no|no|
+|255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|Medium|noNote|no|no|no|no|no|
+|256|[Paint House](https://leetcode.com/problems/paint-house/)|Medium|noNote|no|no|no|no|no|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/257. Binary Tree Paths/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/257. Binary Tree Paths/Solution.py)|no|no|no|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/258. Add Digits/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/258. Add Digits/Solution.py)|no|no|no|
-|259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|Medium|noNote|no|no|no|no|no|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/260. Single Number III/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/260. Single Number III/Solution.py)|no|no|no|
-|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|Medium|noNote|no|no|no|no|no|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/263. Ugly Number/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/263. Ugly Number/Solution.py)|no|no|no|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/264. Ugly Number II/Solution.java)|no|no|no|no|
-|265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)|Hard|noNote|no|no|no|no|no|
+|266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|Easy|noNote|no|no|no|no|no|
+|267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|Medium|noNote|no|no|no|no|no|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/268. Missing Number/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/268. Missing Number/Solution.py)|no|no|no|
-|269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|Hard|noNote|no|no|no|no|no|
+|270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|Easy|noNote|no|no|no|no|no|
+|271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Medium|noNote|no|no|no|no|no|
+|272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|Hard|noNote|no|no|no|no|no|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/273. Integer to English Words/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/273. Integer to English Words/Solution.py)|no|no|no|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/274. H-Index/Solution.java)|no|no|no|no|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/275. H-Index II/Solution.java)|no|no|no|no|
-|276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|Easy|noNote|no|no|no|no|no|
+|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|Medium|noNote|no|no|no|no|no|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/278. First Bad Version/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/278. First Bad Version/Solution.py)|no|no|no|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/279. Perfect Squares/Solution.java)|no|no|no|no|
-|280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|Medium|noNote|no|no|no|no|no|
+|281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)|Medium|noNote|no|no|no|no|no|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|Hard|noNote|no|no|no|no|no|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/283. Move Zeroes/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/283. Move Zeroes/Solution.py)|no|no|no|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/284. Peeking Iterator/Solution.java)|no|no|no|no|
-|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|Medium|noNote|no|no|no|no|no|
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium|noNote|no|no|no|no|no|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/287. Find the Duplicate Number/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/287. Find the Duplicate Number/Solution.py)|no|no|no|
-|288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)|Easy|noNote|no|no|no|no|no|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/289. Game of Life/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/289. Game of Life/Solution.py)|no|no|no|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/290. Word Pattern/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/290. Word Pattern/Solution.py)|no|no|no|
-|291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)|Hard|noNote|no|no|no|no|no|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/292. Nim Game/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/292. Nim Game/Solution.py)|no|no|no|
-|293|[Flip Game](https://leetcode.com/problems/flip-game/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|293|[Flip Game](https://leetcode.com/problems/flip-game/)|Easy|noNote|no|no|no|no|no|
+|294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|Medium|noNote|no|no|no|no|no|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/295. Find Median from Data Stream/Solution.java)|no|no|no|no|
-|296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)|Hard|noNote|no|no|no|no|no|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/297. Serialize and Deserialize Binary Tree/Solution.java)|no|no|no|no|
-|298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|Medium|noNote|no|no|no|no|no|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/299. Bulls and Cows/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/299. Bulls and Cows/Solution.py)|no|no|no|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/300. Longest Increasing Subsequence/Solution.java)|no|no|no|no|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Hard|noNote|no|no|no|no|no|
-|302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)|Hard|noNote|no|no|no|no|no|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/303. Range Sum Query - Immutable/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/303. Range Sum Query - Immutable/Solution.py)|no|no|no|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|Medium|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/304. Range Sum Query 2D - Immutable/Solution.py)|no|no|no|
-|305|[Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|305|[Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|Hard|noNote|no|no|no|no|no|
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/306. Additive Number/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/306. Additive Number/Solution.py)|no|no|no|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/307. Range Sum Query - Mutable/Solution.java)|no|no|no|no|
-|308|[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|308|[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)|Hard|noNote|no|no|no|no|no|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/309. Best Time to Buy and Sell Stock with Cooldown/Solution.java)|no|no|no|no|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|Medium|noNote|no|no|no|no|no|
-|311|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|311|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)|Medium|noNote|no|no|no|no|no|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|Hard|noNote|no|no|no|no|no|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|Medium|noNote|no|no|no|no|no|
-|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|Medium|noNote|no|no|no|no|no|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/315. Count of Smaller Numbers After Self/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/315. Count of Smaller Numbers After Self/Solution.py)|no|no|no|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/316. Remove Duplicate Letters/Solution.java)|no|no|no|no|
-|317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|Hard|noNote|no|no|no|no|no|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/318. Maximum Product of Word Lengths/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/318. Maximum Product of Word Lengths/Solution.py)|no|no|no|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/319. Bulb Switcher/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/319. Bulb Switcher/Solution.py)|no|no|no|
-|320|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|320|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)|Medium|noNote|no|no|no|no|no|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|Hard|noNote|no|no|no|no|no|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/322. Coin Change/Solution.java)|no|no|no|no|
-|323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|noNote|no|no|no|no|no|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium|noNote|no|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/324. Wiggle Sort II/Solution.py)|no|no|no|
-|325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|Medium|noNote|no|no|no|no|no|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/326. Power of Three/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/326. Power of Three/Solution.py)|no|no|no|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|Hard|noNote|no|no|no|no|no|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/328. Odd Even Linked List/Solution.py)|no|no|no|
@@ -315,44 +314,44 @@
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|Hard|noNote|no|no|no|no|no|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/331. Verify Preorder Serialization of a Binary Tree/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/331. Verify Preorder Serialization of a Binary Tree/Solution.py)|no|no|no|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|Medium|noNote|no|no|no|no|no|
-|333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|Medium|noNote|no|no|no|no|no|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/334. Increasing Triplet Subsequence/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/334. Increasing Triplet Subsequence/Solution.py)|no|no|no|
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|Hard|noNote|no|no|no|no|no|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|Hard|noNote|no|no|no|no|no|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/337. House Robber III/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/337. House Robber III/Solution.py)|no|no|no|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/338. Counting Bits/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/338. Counting Bits/Solution.py)|no|no|no|
-|339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|Easy|noNote|no|no|no|no|no|
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|Hard|noNote|no|no|no|no|no|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/341. Flatten Nested List Iterator/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/341. Flatten Nested List Iterator/Solution.py)|no|no|no|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/342. Power of Four/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/342. Power of Four/Solution.py)|no|no|no|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/343. Integer Break/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/343. Integer Break/Solution.py)|no|no|no|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/344. Reverse String/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/344. Reverse String/Solution.py)|no|no|no|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/345. Reverse Vowels of a String/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/345. Reverse Vowels of a String/Solution.py)|no|no|no|
-|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|Easy|noNote|no|no|no|no|no|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/347. Top K Frequent Elements/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/347. Top K Frequent Elements/Solution.py)|no|no|no|
-|348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|Medium|noNote|no|no|no|no|no|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/349. Intersection of Two Arrays/Solution.java)|no|no|no|no|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/350. Intersection of Two Arrays II/Solution.java)|no|no|no|no|
-|351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|Medium|noNote|no|no|no|no|no|
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/352. Data Stream as Disjoint Intervals/Solution.java)|no|no|no|no|
-|353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/)|Medium|noNote|no|no|no|no|no|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/354. Russian Doll Envelopes/Solution.java)|no|no|no|no|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/355. Design Twitter/Solution.java)|no|no|no|no|
-|356|[Line Reflection](https://leetcode.com/problems/line-reflection/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|356|[Line Reflection](https://leetcode.com/problems/line-reflection/)|Medium|noNote|no|no|no|no|no|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/357. Count Numbers with Unique Digits/Solution.java)|no|no|no|no|
-|358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)|Hard|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|Easy|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)|Hard|noNote|no|no|no|no|no|
+|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|Easy|noNote|no|no|no|no|no|
+|360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)|Medium|noNote|no|no|no|no|no|
+|361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy/)|Medium|noNote|no|no|no|no|no|
+|362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|Medium|noNote|no|no|no|no|no|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/363. Max Sum of Rectangle No Larger Than K/Solution.java)|no|no|no|no|
-|364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|Medium|noNote|no|no|no|no|no|
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/365. Water and Jug Problem/Solution.java)|no|no|no|no|
-|366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|Medium|noNote|no|no|no|no|no|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/367. Valid Perfect Square/Solution.java)|no|no|no|no|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/368. Largest Divisible Subset/Solution.java)|no|no|no|no|
-|369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
-|370|[Range Addition](https://leetcode.com/problems/range-addition/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|Medium|noNote|no|no|no|no|no|
+|370|[Range Addition](https://leetcode.com/problems/range-addition/)|Medium|noNote|no|no|no|no|no|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/371. Sum of Two Integers/Solution.java)|no|no|no|no|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/372. Super Pow/Solution.java)|no|no|no|no|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/373. Find K Pairs with Smallest Sums/Solution.java)|no|no|no|no|
@@ -361,7 +360,7 @@
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/376. Wiggle Subsequence/Solution.java)|no|no|no|no|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/377. Combination Sum IV/Solution.java)|no|no|no|no|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/378. Kth Smallest Element in a Sorted Matrix/Solution.java)|no|no|no|no|
-|379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)|Medium|noBuy|noBuy|noBuy|noBuy|noBuy|noBuy|
+|379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)|Medium|noNote|no|no|no|no|no|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/380. Insert Delete GetRandom O(1)/Solution.java)|no|no|no|no|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/381. Insert Delete GetRandom O(1) - Duplicates allowed/Solution.java)|no|no|no|no|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/382. Linked List Random Node/Solution.java)|no|no|no|no|
