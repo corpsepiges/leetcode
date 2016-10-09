@@ -160,7 +160,7 @@
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|Hard|noNote|no|no|no|no|no|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|Hard|noNote|no|no|no|no|no|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/160. Intersection of Two Linked Lists/Solution.java)|[Python](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/160. Intersection of Two Linked Lists/Solution.py)|no|no|no|
-|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|Medium|noNote|no|no|no|no|no|
+|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/161. One Edit Distance/Solution.java)|no|no|no|no|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/162. Find Peak Element/Solution.java)|no|no|no|no|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|Medium|noNote|no|no|no|no|no|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|Hard|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/164. Maximum Gap/Solution.java)|no|no|no|no|
@@ -390,3 +390,11 @@
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/405. Convert a Number to Hexadecimal/Solution.java)|no|no|no|no|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/406. Queue Reconstruction by Height/Solution.java)|no|no|no|no|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|Hard|noNote|no|no|no|no|no|
+|408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)|Easy|noNote|no|no|no|no|no|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/409. Longest Palindrome/Solution.java)|no|no|no|no|
+|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Hard|noNote|no|no|no|no|no|
+|411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/)|Hard|noNote|no|no|no|no|no|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/415. Add Strings/Solution.java)|no|no|no|no|
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Medium|noNote|no|no|no|no|no|
+|417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/417. Pacific Atlantic Water Flow/Solution.java)|no|no|no|no|
+|418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)|Hard|noNote|no|no|no|no|no|
