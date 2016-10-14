@@ -379,7 +379,7 @@
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/394. Decode String/Solution.java)|no|no|no|no|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/395. Longest Substring with At Least K Repeating Characters/Solution.java)|no|no|no|no|
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/396. Rotate Function/Solution.java)|no|no|no|no|
-|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/397. Integer Replacement/Solution.java)|no|no|no|no|
+|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/397. Integer Replacement/Solution.java)|no|no|no|no|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/398. Random Pick Index/Solution.java)|no|no|no|no|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|Medium|noNote|no|no|no|no|no|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/400. Nth Digit/Solution.java)|no|no|no|no|
@@ -395,6 +395,6 @@
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Hard|noNote|no|no|no|no|no|
 |411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/)|Hard|noNote|no|no|no|no|no|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|Easy|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/415. Add Strings/Solution.java)|no|no|no|no|
-|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Medium|noNote|no|no|no|no|no|
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/416. Partition Equal Subset Sum/Solution.java)|no|no|no|no|
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|Medium|noNote|[Java](https://github.com/corpsepiges/leetcode/blob/master/Algorithms/417. Pacific Atlantic Water Flow/Solution.java)|no|no|no|no|
-|418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)|Hard|noNote|no|no|no|no|no|
+|418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)|Medium|noNote|no|no|no|no|no|
