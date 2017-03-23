@@ -39,7 +39,9 @@ class fileInfo(object):
 
 #参数1：本地leetcode项目地址
 #笔记本
-localPath='D:\workSpace\GitHub\leetcode'
+#localPath='D:\workSpace\GitHub\leetcode'
+#家里
+localPath='F:\workSpace\GitHub\leetcode'
 #参数2：自己github项目网址
 githubUrl='https://github.com/corpsepiges/leetcode'
 githubUrl+='/blob/master/Algorithms/'
@@ -134,6 +136,7 @@ for id in tableId:
             folder=fi.folder
             title=fi.title
             suffix=fi.suffix
+            q.name=q.name.replace(' ','%20')
             statement='oneLine+=((\'['+title+'](\'+githubUrl+q.id+\'. \'+q.name+\'/Solution.'+suffix+')\') if q.'+folder+' else \'no\')'
             exec(statement)
             oneLine+='|'
