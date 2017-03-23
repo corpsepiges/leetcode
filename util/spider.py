@@ -137,7 +137,7 @@ for id in tableId:
             title=fi.title
             suffix=fi.suffix
             q.name=q.name.replace(' ','%20')
-            statement='oneLine+=((\'['+title+'](\'+githubUrl+q.id+\'. \'+q.name+\'/Solution.'+suffix+')\') if q.'+folder+' else \'no\')'
+            statement='oneLine+=((\'['+title+'](\'+githubUrl+q.id+\'.%20\'+q.name+\'/Solution.'+suffix+')\') if q.'+folder+' else \'no\')'
             exec(statement)
             oneLine+='|'
         oneLine+='no|\n'
